@@ -1,1 +1,1 @@
-# rust_start
+# Repository for Rust exploration
