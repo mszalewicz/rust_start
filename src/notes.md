@@ -7,7 +7,9 @@
 
 - match expressions:
 
+```
     match res {
         Ok(success) => { ... },
         Err(error) => { ... }
     }
+```
